@@ -130,9 +130,11 @@ I have noticed that the average of the maximum obtained value of horizontal vect
 -----------
 
 ## Plotting method examples:
-
+**plot_trials():** <br>
 ![Image](https://github.com/WJMatthew/SisFallAnalysis/blob/master/images/plot_trials_sample.png)
 <br>
+**plot_one_from_each():** <br>
 ![Image](https://github.com/WJMatthew/SisFallAnalysis/blob/master/images/plot_one_from_each_sample.png)
 <br>
+**plot_feats():** <br>
 ![Image](https://github.com/WJMatthew/SisFallAnalysis/blob/master/images/plot_feats_sample.png)
