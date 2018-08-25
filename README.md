@@ -1,5 +1,3 @@
-# SisFallAnalysis
-
 *[In progress]*
 
 # Analysis of the SisFall Dataset for Fall Detection
