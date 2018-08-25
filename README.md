@@ -39,6 +39,7 @@ SisFall Dataset: http://sistemic.udea.edu.co/en/investigacion/proyectos/english-
 * [4] **Fall-Detection Algorithm Using 3-Axis Acceleration: Combination with Simple Threshold and Hidden Markov Model**<br>
  *Dongha Lim, Chulho Park, Nam Ho Kim, Sang-Hoon Kim, and Yun Seop Yu*
 
+### Sensor Orientation:
 ![Image](https://i.imgur.com/yJieKKw.png)
 
 -----------
