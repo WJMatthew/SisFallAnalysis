@@ -4,6 +4,29 @@
 **Matthew Johnson, July 25, 2018 (last updated August 24, 2018)**
 
 #### A dataset of performed trials of activities of daily living (ADLs) and falls with subjects wearing two triaxis accelerometers and a gyroscope.
+<br>
+I used features common throughout related literature, specifically from [3]:<br><br>
+
+**Sum Vector Magnitude** =  ![Image](https://i.imgur.com/cte8bDa.gif)
+<br><br>
+
+**Sum Vector Magnitude on Horizontal Plane** = ![Image](https://i.imgur.com/HAuhKDf.gif)
+<br><br>
+
+**Angle between z-axis and vertical** = ![Image](https://i.imgur.com/QuFoizh.gif)
+<br><br>
+
+**Standard deviation magnitude on horizontal plane** = ![Image](https://i.imgur.com/Zp3A9aG.gif)
+<br><br>
+
+**Standard deviation magnitude** = ![Image](https://i.imgur.com/edDMmHI.gif)
+<br><br>
+
+**Signal Magnitude Area** = ![Image](https://i.imgur.com/EU9NIyQ.gif)
+<br><br>
+
+**Signal Magnitude Area on horizontal plane** = ![Image](https://i.imgur.com/3wFkSlu.gif)
+<br><br>
 
 SisFall Dataset: http://sistemic.udea.edu.co/en/investigacion/proyectos/english-falls/<br>
 ##### Sources: <br>
@@ -91,3 +114,13 @@ SisFall Dataset: http://sistemic.udea.edu.co/en/investigacion/proyectos/english-
 | SA10    | 21  | 177    | 67     | M      |      | | SA22    | 19  | 158    | 50.5   | F      |
 | SA11    | 19  | 170    | 80.5   | M      |      | | SA23    | 24  | 156    | 48     | F      |
 | SA12    | 25  | 153    | 47     | F      |      |
+
+
+-----------
+
+## Correlations:
+
+I have noticed that the average of the maximum obtained value of horizontal vector magnitude standard deviation per activity per subject is inversely proportional to the amplitude of the same measure in the first for falls. The correlation between the two aforementioned variables is -0.89. The first four ADLs are walking and jogging so I am trying to use them as a baseline measure for personal variance.
+
+![Image](https://github.com/WJMatthew/SisFallAnalysis/blob/master/download%20(3).png)
+![Image](https://raw.github.com/WJMatthew/SisFallAnalysis/master/download%20(2).png)
