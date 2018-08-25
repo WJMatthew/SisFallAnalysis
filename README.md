@@ -120,7 +120,7 @@ SisFall Dataset: http://sistemic.udea.edu.co/en/investigacion/proyectos/english-
 
 ## Correlations:
 
-I have noticed that the average of the maximum obtained value of horizontal vector magnitude standard deviation per activity per subject is inversely proportional to the amplitude of the same measure in the first for falls. The first four ADLs are walking and jogging so I am trying to use them as a baseline measure for personal variance.
+I have noticed that the average of the maximum obtained value of horizontal vector magnitude standard deviation per activity per subject is inversely proportional to the amplitude of the same measure in the first for falls. The correlation between the two aforementioned variables is -0.89. The first four ADLs are walking and jogging so I am trying to use them as a baseline measure for personal variance.
 
 ![Image](https://github.com/WJMatthew/SisFallAnalysis/blob/master/download%20(3).png)
 ![Image](https://raw.github.com/WJMatthew/SisFallAnalysis/master/download%20(2).png)
