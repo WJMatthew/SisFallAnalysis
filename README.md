@@ -7,10 +7,10 @@
 <br>
 I used features common throughout related literature, specifically from [3]:<br><br>
 
-**Sum Vector Magnitude** =  ![Image](https://i.imgur.com/cte8bDa.gif)
+**Sum Vector Magnitude** =  ![Image](https://i.imgur.com/HAuhKDf.gif)
 <br><br>
 
-**Sum Vector Magnitude on Horizontal Plane** = ![Image](https://i.imgur.com/HAuhKDf.gif)
+**Sum Vector Magnitude on Horizontal Plane** = ![Image](https://i.imgur.com/cte8bDa.gif)
 <br><br>
 
 **Angle between z-axis and vertical** = ![Image](https://i.imgur.com/QuFoizh.gif)
