@@ -13,10 +13,10 @@ I used features common throughout related literature, specifically from [3]:<br>
 **Sum Vector Magnitude on Horizontal Plane** = ![Image](https://i.imgur.com/cte8bDa.gif)
 <br><br>
 
-**Angle between z-axis and vertical** = ![Image](https://i.imgur.com/QuFoizh.gif)
+**Angle between z-axis and vertical** = ![Image](https://i.imgur.com/Zp3A9aG.gif)
 <br><br>
 
-**Standard deviation magnitude on horizontal plane** = ![Image](https://i.imgur.com/Zp3A9aG.gif)
+**Standard deviation magnitude on horizontal plane** = ![Image](https://i.imgur.com/QuFoizh.gif)
 <br><br>
 
 **Standard deviation magnitude** = ![Image](https://i.imgur.com/edDMmHI.gif)
